@@ -1,0 +1,33 @@
+body{
+ text-align:left; 
+ }
+ #box{
+ float:left;
+ display: block;
+ width:300px;
+ height:300px;
+ margin:10px auto;
+ padding:20px;
+ text-align:left;
+ border:1px solid black;
+ background:orange;
+ -webkit-border-radius:25px;
+ }
+ #b{
+     width:80%;
+     border:5px solid black;
+	 }
+#box1{
+
+ float:RIGHT;
+ display: block;
+ width:300px;
+ height:300px;
+ margin:10px auto;
+ padding:20px;
+ text-align:center;
+ background:yellow;
+ border:1px solid black;
+ 
+ -webkit-border-radius:25px;
+ }

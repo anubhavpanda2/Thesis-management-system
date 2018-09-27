@@ -1,0 +1,61 @@
+body{
+ text-align:center; 
+ }
+
+#text{
+ font:bold 30px Century Gothic;
+}
+#top
+{
+    margin: 10px auto;
+    float:left;
+    margin: 20px;
+ width : 200px;
+ background:#ffa900;
+ -webkit-border-radius:25px;
+ height:200px;
+}
+#abcd{
+font-size:35px;
+}
+#b{
+     width:80%;
+     border:5px solid red;
+	 }
+#bc{
+font-size:30px;
+    margin: 1px auto;
+    float:left;
+    margin: 20px;
+ width : 200px;
+ background:#ff6633;
+ -webkit-border-radius:25px;
+ height:250px;
+}
+
+       #box1{
+           
+     float: center;
+ display: block;
+ width:800px;
+ height:300px;
+ margin:1px auto;
+ padding:20px;
+ text-align:right;
+ border:1px solid black;
+ background:chocolate;
+ -webkit-border-radius:25px;
+  -webkit-box-shadow:rgb(110,110,110) 8px 8px;
+ }
+ /* 
+    Document   : a
+    Created on : 7 Apr, 2013, 2:29:40 PM
+    Author     : TALIB
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+

@@ -1,0 +1,15 @@
+ body{
+ text-align:CENTER;
+background-image:url(ad.jpg); 
+ }
+ #a{
+   display: block;
+ width:500px;
+ height:50px;
+ margin:250px auto;
+ padding:20px;
+ text-align:CENTER;
+ border:1px solid black;
+ background:orange;
+ -webkit-border-radius:25px;
+ }

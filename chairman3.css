@@ -1,0 +1,27 @@
+body{
+ text-align:center; 
+ }
+ #box{
+ display: block;
+ width:200px;
+ height:400px;
+ margin:10px auto;
+ padding:20px;
+ text-align:center;
+ border:1px solid black;
+ background:orange;
+ -webkit-border-radius:25px;
+  -webkit-box-shadow:rgb(110,110,110) 8px 8px;
+ }
+ #bx{
+ display: block;
+ width:400px;
+ height:600px;
+ margin:10px auto;
+ text-align:center;
+ padding:20px;
+ border:1px solid black;
+ background:orange;
+ -webkit-border-radius:25px;
+  -webkit-box-shadow:rgb(110,110,110) 8px 8px;
+ }

@@ -1,0 +1,33 @@
+body{
+ text-align:center; 
+ }
+ #box{
+ display: block;
+ width:1000px;
+ height:500px;
+ margin:10px auto;
+ padding:20px;
+ text-align:center;
+ border:1px solid black;
+ background:orange;
+ -webkit-border-radius:25px;
+  -webkit-box-shadow:rgb(110,110,110) 8px 8px;
+ }
+#text{
+ font:bold 30px Century Gothic;
+}
+#top
+{
+
+ background:red;
+ -webkit-border-radius:25px;
+}
+#top li{
+      margin:0px;
+    display:inline-block;
+    list-style:none;
+	padding:20px;
+	font:bold 20px Tahoma;
+	}
+
+ 

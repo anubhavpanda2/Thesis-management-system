@@ -1,0 +1,9 @@
+  <nav>
+	     <tr>
+		     <td><a href="a.html">Home</a></td>
+			 <td><a href="login.html">log in</a></td>
+			 <td><a href="aboutus.html">about us</a></td>
+			 </tr>
+
+</body>
+</html>
